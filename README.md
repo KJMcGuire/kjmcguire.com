@@ -19,3 +19,7 @@ git submodule update
 
 hugo serve
 ```
+
+## Content
+
+Content goes in the content/posts directory. Do not modify any files in the themes directory. You can override the theme by modifying any of the layouts in the root directory.
