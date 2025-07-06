@@ -1,7 +1,10 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'KJMcGuire.com'
+title = 'K.J. McGuire'
 theme = 'typo'
+pluralizeListTitles = false
+
+
 
 # Google analytics code
 googleAnalytics = "G-xxxxxxxxx"
@@ -17,7 +20,7 @@ description = "A Tech Writer Blog"
 theme = 'light'
 colorPalette = 'default'
 hideHeader = false
-
+#showDatesOnPosts = false
 
 # Intro on main page, content is markdown
 homeIntroTitle = ''
@@ -32,14 +35,14 @@ homeIntroContent = """
 # Lists parameters
 paginationSize = 100
 listSummaries = true
-listDateFormat = '2 Jan 2006'
-pluralizeListTitles = false
+listDateFormat = '02 Jan 2006'
+showListDate = false
 
 # Breadcrumbs
 [params.breadcrumbs]
 enabled = true
 showCurrentPage = true
-home = "Home"
+home = "~"
 
 # Social icons
 [[params.social]]
@@ -67,9 +70,9 @@ url = "/doing"
 name = "what I'm reading"
 url = "/reading"
 
-[[params.menu]]
-name = "about"
-url = "/about"
+#[[params.menu]]
+#name = "about me"
+#url = "/about"
 
 # Syntax highlight on code blocks
 [markup]
