@@ -24,7 +24,7 @@ hideHeader = false
 
 # Intro on main page, content is markdown
 homeIntroTitle = ''
-homeIntroContent = ""
+homeIntroContent = "Welcome to my site, resurrected in 2025. Like this site, I'm a bit understated. As I develop more content, I might introduce myself a bit more. "
 
 
 # Collection to display on home
