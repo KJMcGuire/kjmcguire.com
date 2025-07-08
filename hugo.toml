@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://kjmcguire.com/'
 languageCode = 'en-us'
 title = 'K.J. McGuire'
 theme = 'typo'
@@ -24,9 +24,8 @@ hideHeader = false
 
 # Intro on main page, content is markdown
 homeIntroTitle = ''
-homeIntroContent = """
+homeIntroContent = ""
 
-"""
 
 # Collection to display on home
 #homeCollectionTitle = 'Posts'
