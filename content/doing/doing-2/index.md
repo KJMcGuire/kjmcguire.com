@@ -20,7 +20,7 @@ The pleasure: I enjoy yard work if the end result is that I've created something
 
 The pain: The soil on our property is terrible. Seriously, I didn't know they made dirt that bad. The rocks aren't the problem, it's the clay. I am forced to dig holes with a pickax.
 
-The dismay: My vision of a lawn-less backyard profuse in sustainable, climate-appropriate vegetation---my beautiful, inspired desert *Dharma*scape---looks like this:
+The dismay: My vision of a lawn-less backyard profuse in sustainable, climate-appropriate vegetation---my beautiful, inspired desert *dharma*scape---looks like this:
 ![yard](./imgs/yard.jpg "Behold. My vision.")   
 
 Maybe it's not too bad. But the gravel path!
@@ -38,4 +38,4 @@ Clearly the path needs narrowing and the gravel needs to go. The hideous gravel.
 
 For now I will continue replacing the shrubs because the landscapers didn't dig adequate holes and basically planted them in solid clay. I've already replaced a few dozen dead from root rot (in the desert!).
 
-I'm sure there's a lesson in this. I need to let go of control---because the deer ARE going to eat my roses. I need to practice patience, because fixing this is going to take years. In the meantime, I suppose, I need to take Patrul Rinpoche's heart advice and just settle into whatever is going to occur in my backyard. Maybe I did get my *Dharma*scape.
+I'm sure there's a lesson in this. I need to let go of control---because the deer ARE going to eat my roses. I need to practice patience, because fixing this is going to take years. In the meantime, I suppose, I need to take Patrul Rinpoche's heart advice and just settle into whatever is going to occur in my backyard. Maybe I did get my *dharma*scape.

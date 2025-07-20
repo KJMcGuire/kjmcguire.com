@@ -16,7 +16,7 @@ fediverse: "@username@instance.url"
 ---
 Despite minoring in it in college, I have never found human history very interesting. I've never been able to fully account for this. I think I'm an intelligent person, in possession of a robust, inquisitive mind. I ought to be curious about things like the signing of Magna Carta or the causes and consequences of the Spanish-American War, but I'm just not. I think it's because I have a hard time resolving one so-called watershed event from the next. I struggle to detect any lasting change across decades or even centuries. It's too granular. It's only when I zoom out to the scale of millennia and beyond, when human history begins to dissolve into anthropology, that things start getting interesting.
 
-Because while I don't much like human history, I do love natural history. It feels like I spend a lot more time thinking about the ancient past or imagining the distant future than I do living in the present. I realize this makes me a poor Dharma practitioner, but that's a different discussion.
+Because while I don't much like human history, I do love natural history. It feels like I spend a lot more time thinking about the ancient past or imagining the distant future than I do living in the present. I realize this makes me a poor dharma practitioner, but that's a different discussion.
 
 All this to say I've put fiction aside for now and have begun reading Charles Darwin's *The Descent of Man*. I'm only about 100 pages in, but I thought I'd share some thoughts while the enthusiasm is still fresh.
 
