@@ -29,7 +29,7 @@ Maybe it's not too bad. But the gravel path!
 > I can just imagine little kids riding their Big Wheels around your backyard!  
 > — Mom
 
-That Big Wheels track is supposed to be a mediation path. All those little dashes of almost color were supposed to do this:
+That Big Wheels track is supposed to be a meditation path. All those little dashes of almost color were supposed to do this:
 ![desert garden](./imgs/Garden_JS-Landscape.jpg "I promise you there are seven of those catmint plants in the first picture.")
 
 We did hire a landscape designer, and I was pretty firm in telling her exactly what I did and did not want. The problem is she listened. But I require supervision if I'm going to venture outside my lane and do something creative. I need someone with more artistic sense to walk me back from my bad idea.
